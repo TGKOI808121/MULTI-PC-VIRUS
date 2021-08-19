@@ -1,0 +1,11 @@
+browserhistory
+prettytable
+colorama
+pyautogui
+pyngrok
+wmi
+pynput
+pywin32
+pyscreeze
+comtypes
+open-cv
