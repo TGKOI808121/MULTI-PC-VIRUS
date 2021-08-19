@@ -16,3 +16,5 @@ Simple:
 
 If You Have Any Issues, Let Me Know Too!
 Anyways, Have A Nixe Day!
+
+(MASSIVE CREDITS TO X4XBOX ON HIS SOCKETS CONCEPT)
